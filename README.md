@@ -3,7 +3,9 @@ automatically designer
 
 i had a lot of works to create vocabulary pictures. and i was tired so i created a flask app to create pictures automatically.
 
-https://user-images.githubusercontent.com/111178357/190214257-f4ee39af-42c9-4793-867a-53b4904341fe.mp4
+https://user-images.githubusercontent.com/111178357/190959718-536f80b3-2308-4344-aaae-54d2d70778c5.mp4
+
+
 
 you can download the app codes as .zip here
 
