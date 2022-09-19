@@ -89,19 +89,20 @@ def convertor(save_as, unit_name, word, speaking_word, example1_translate, examp
     font-family: sans-serif;
 }
 
+
 .mano1 p{
-    font-size: 35px;
-    font-family: sans-serif;
+    font-size: 30px;
 }
 
 .mano1_misol{
     width: 80%;
-    height: 130px;
+    height: 110px;
     margin-left: 10%;
-    font-size: 30px;
+    font-size: 25px;
     font-style: italic;
     margin: none;
 }
+
 
             """
 
@@ -198,28 +199,26 @@ def convertor(save_as, unit_name, word, speaking_word, example1_translate, examp
 }
 
 .mano1 p{
-    font-size: 35px;
-    font-family: sans-serif;
+    font-size: 30px;
 }
 
 .mano1_misol{
     width: 80%;
-    height: 130px;
+    height: 110px;
     margin-left: 10%;
-    font-size: 30px;
+    font-size: 25px;
     font-style: italic;
     margin: none;
 }
 
 .mano2 p{
-    font-size: 35px;
-    font-family: sans-serif;
+    font-size: 30px;
 }
 .mano2_misol{
     width: 80%;
-    height: 130px;
+    height: 110px;
     margin-left: 10%;
-    font-size: 30px;
+    font-size: 25px;
     font-style: italic;
     margin: none;
 }

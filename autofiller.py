@@ -10,7 +10,8 @@ def index():
 
 @app.route("/download", methods=['GET', 'POST'])
 def test():
-    data = {'unit': str(request.form.get('comp_select')), 'word': request.form.get('word'),
+    data = {'unit': request.form.get('comp_select'),
+            'word': request.form.get('word'),
             'speaking_word': request.form.get('speaking_word'),
             'translated_text_1': request.form.get('translated_text_1'),
             'example_sentence_1': request.form.get('example_sentence_1'),
